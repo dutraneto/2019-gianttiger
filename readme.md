@@ -30,6 +30,8 @@
 
 ![](cart.png)
 
+---
+
 ### TODOS
 
 - Design a email flyer
