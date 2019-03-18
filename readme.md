@@ -19,13 +19,18 @@
 ### Screenshots
 
 ![](catalog.png)
+
 ![](menu.png)
+
 ![](product_1.png)
+
 ![](product_2.png)
+
 ![](product_3.png)
+
 ![](cart.png)
 
-### TODO
+### TODOS
 
 - Design a email flyer
 - Design a Desktop Website
