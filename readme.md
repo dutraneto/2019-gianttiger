@@ -2,11 +2,16 @@
 
 ## Giant Tiger is a Canadian Retailer. This project was designed to be part of my application for a position as a Digital Retention Coordinator
 
-### This project was designed using a free tool Figma
+### This project was designed using Figma and Gimp
+
+### Design
+
+- Figma
+- Gimp
 
 ### Front-end
 
-- Figma
+- (TODO)
 
 ---
 
